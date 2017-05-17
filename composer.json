@@ -1,0 +1,11 @@
+{
+    "name": "janiscp/adminltestarter",
+    "authors": [
+        {
+            "name": "Janis Pagal",
+            "email": "janispagal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
